@@ -1,0 +1,6 @@
+console.log("Server test working!");
+
+const now = new Date();
+console.log("Current time:", now);
+
+console.log("Test completed successfully.");
